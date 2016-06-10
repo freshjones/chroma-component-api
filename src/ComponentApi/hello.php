@@ -2,12 +2,12 @@
 
 namespace ComponentApi;
 
-class test
+class hello
 {	
 	
 	public function __construct()
 	{
-		echo 'test';
+		echo 'hello world';
 	}
 
 }
